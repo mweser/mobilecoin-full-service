@@ -6,6 +6,7 @@ import base58
 
 from . import external_pb2
 from . import printable_pb2
+from . import run_mob
 
 
 PMOB = Decimal("1e12")
